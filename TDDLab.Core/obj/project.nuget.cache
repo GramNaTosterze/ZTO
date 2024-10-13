@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "InPzQ3MnoSo=",
+  "success": true,
+  "projectFilePath": "/home/chrissy/dev/ZTO/TDDLab.Core/TDDLab.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/chrissy/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/chrissy/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

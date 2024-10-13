@@ -1,2 +1,4 @@
 # ZTO
-Laby z przedmiotu "Zaawansowane techniki obiektowe"
+Pierwsze Laby z przedmiotu "Zaawansowane techniki obiektowe"
+
+zad: Przetestować logikę biznesową dla walidacji

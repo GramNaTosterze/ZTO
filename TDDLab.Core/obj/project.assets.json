@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BasicUtils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/BasicUtils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicUtils/1.0.0": {
+      "type": "project",
+      "path": "../BasicUtils/BasicUtils.csproj",
+      "msbuildProject": "../../../../../var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "BasicUtils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/chrissy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/var/home/chrissy/dev/ZTO/TDDLab.Core/TDDLab.Core.csproj",
+      "projectName": "TDDLab.Core",
+      "projectPath": "/var/home/chrissy/dev/ZTO/TDDLab.Core/TDDLab.Core.csproj",
+      "packagesPath": "/home/chrissy/.nuget/packages/",
+      "outputPath": "/home/chrissy/dev/ZTO/TDDLab.Core/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/chrissy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "projectReferences": {
+            "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj": {
+              "projectPath": "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/nix/store/xbnpbibdqy8rivl28g613nh9vlpq0jrg-dotnet-sdk-8.0.401/sdk/8.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

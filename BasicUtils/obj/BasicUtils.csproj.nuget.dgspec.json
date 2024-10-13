@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj": {}
+  },
+  "projects": {
+    "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj",
+        "projectName": "BasicUtils",
+        "projectPath": "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj",
+        "packagesPath": "/home/chrissy/.nuget/packages/",
+        "outputPath": "/home/chrissy/dev/ZTO/BasicUtils/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chrissy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/xbnpbibdqy8rivl28g613nh9vlpq0jrg-dotnet-sdk-8.0.401/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
