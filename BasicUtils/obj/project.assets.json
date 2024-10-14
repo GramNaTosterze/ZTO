@@ -17,7 +17,7 @@
       "projectName": "BasicUtils",
       "projectPath": "/var/home/chrissy/dev/ZTO/BasicUtils/BasicUtils.csproj",
       "packagesPath": "/home/chrissy/.nuget/packages/",
-      "outputPath": "/home/chrissy/dev/ZTO/BasicUtils/obj/",
+      "outputPath": "/var/home/chrissy/dev/ZTO/BasicUtils/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chrissy/.nuget/NuGet/NuGet.Config"

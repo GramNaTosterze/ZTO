@@ -36,7 +36,7 @@
       "projectName": "TDDLab.Core",
       "projectPath": "/var/home/chrissy/dev/ZTO/TDDLab.Core/TDDLab.Core.csproj",
       "packagesPath": "/home/chrissy/.nuget/packages/",
-      "outputPath": "/home/chrissy/dev/ZTO/TDDLab.Core/obj/",
+      "outputPath": "/var/home/chrissy/dev/ZTO/TDDLab.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chrissy/.nuget/NuGet/NuGet.Config"
